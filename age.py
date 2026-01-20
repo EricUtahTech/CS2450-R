@@ -7,6 +7,6 @@ while True:
         print(x+" is "+str(y)+" years old.")
         break
     else:
-        print("Rats")
+        print("Rats, let's try again...")
     
     
