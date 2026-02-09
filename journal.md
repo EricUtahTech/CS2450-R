@@ -3,3 +3,6 @@ We worked to get the Github setup working, learning to push and pull to local fr
 
 Week 2:
 We threw out ideas for the You Face Website this week, the popular idea was to make a very inconvenient social media. Like font is wingdings, terrible background colors, terrible passwords, etc.
+
+Week 3:
+We created a list of requirements last week, just some basic company stuff, like objective statements, and what was in scope of our project. I am writing this the monday after because I forgot, but this will log last week. We also started listing some basic tickets using user stories.
