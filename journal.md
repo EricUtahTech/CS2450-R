@@ -6,3 +6,6 @@ We threw out ideas for the You Face Website this week, the popular idea was to m
 
 Week 3:
 We created a list of requirements last week, just some basic company stuff, like objective statements, and what was in scope of our project. I am writing this the monday after because I forgot, but this will log last week. We also started listing some basic tickets using user stories.
+
+Week 4:
+Forgot to write last friday again. Last week we worked through git conflicts and planned out some flow diagrams. I personally am surprised how often some of the group members don't show up. I think there was ONE class all 5 members were there. Still, we manage to get it done, I hope this doesn't conflict with the development of our website.
