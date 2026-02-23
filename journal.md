@@ -9,3 +9,6 @@ We created a list of requirements last week, just some basic company stuff, like
 
 Week 4:
 Forgot to write last friday again. Last week we worked through git conflicts and planned out some flow diagrams. I personally am surprised how often some of the group members don't show up. I think there was ONE class all 5 members were there. Still, we manage to get it done, I hope this doesn't conflict with the development of our website.
+
+Week 5:
+I think writing the monday after is working out for me better than the end of the week. We built a presentation for our website, I ended up making the mock-up page to show what it will look like. It is VERY blue, and goofy looking, but somehow looks pretty professional, oddly enough.
