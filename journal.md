@@ -12,3 +12,6 @@ Forgot to write last friday again. Last week we worked through git conflicts and
 
 Week 5:
 I think writing the monday after is working out for me better than the end of the week. We built a presentation for our website, I ended up making the mock-up page to show what it will look like. It is VERY blue, and goofy looking, but somehow looks pretty professional, oddly enough.
+
+Week 6:
+We presented our website, it got a chuckle or 2 out of the professor, that's a good sign I think. Camryn is the first scrum master, and luckily, she knows SQL, so that is good, we are going to use SQLlite, supposedly it's better than tinydb.
