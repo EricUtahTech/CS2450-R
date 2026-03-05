@@ -15,3 +15,6 @@ I think writing the monday after is working out for me better than the end of th
 
 Week 6:
 We presented our website, it got a chuckle or 2 out of the professor, that's a good sign I think. Camryn is the first scrum master, and luckily, she knows SQL, so that is good, we are going to use SQLlite, supposedly it's better than tinydb.
+
+Week 7:
+We worked on the peer-programming assignment, and actually started messing with our actual website! We are just overriding the css with another css to get it working. I don't know why it uses bootstrap when we have had no explanation of how to use that tool. I have only heard about it and vaguely know what that does. Dan and I also reworked the to-do list.
