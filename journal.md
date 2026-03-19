@@ -18,3 +18,6 @@ We presented our website, it got a chuckle or 2 out of the professor, that's a g
 
 Week 7:
 We worked on the peer-programming assignment, and actually started messing with our actual website! We are just overriding the css with another css to get it working. I don't know why it uses bootstrap when we have had no explanation of how to use that tool. I have only heard about it and vaguely know what that does. Dan and I also reworked the to-do list.
+
+Week 8:
+Started working on the visual elements of the website, Dan was scrum master this week, I don't think any of us know what we are doing with this premade template, but we are in too deep now to change it.
