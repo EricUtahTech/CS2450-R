@@ -21,3 +21,6 @@ We worked on the peer-programming assignment, and actually started messing with 
 
 Week 8:
 Started working on the visual elements of the website, Dan was scrum master this week, I don't think any of us know what we are doing with this premade template, but we are in too deep now to change it.
+
+Week 9:
+My turn this week as scrum master, this has been a very busy week for me, but what can you do? I finished the initial home page, and Lance finished the login, he is working on the sign up page now, I am very impressed with what he did. Camryn has been very sick this week, hope she feels better. Now we have a good working prototype at least!
