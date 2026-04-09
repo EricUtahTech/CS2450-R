@@ -24,3 +24,6 @@ Started working on the visual elements of the website, Dan was scrum master this
 
 Week 9:
 My turn this week as scrum master, this has been a very busy week for me, but what can you do? I finished the initial home page, and Lance finished the login, he is working on the sign up page now, I am very impressed with what he did. Camryn has been very sick this week, hope she feels better. Now we have a good working prototype at least!
+
+Week 10:
+This week, I remade the home page to use a modified version of lance's script, and the database is up. I have been working on moving everything over to the new system.
