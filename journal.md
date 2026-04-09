@@ -27,3 +27,6 @@ My turn this week as scrum master, this has been a very busy week for me, but wh
 
 Week 10:
 This week, I remade the home page to use a modified version of lance's script, and the database is up. I have been working on moving everything over to the new system.
+
+Week 11:
+I implemented the image uploading system, and reformatted the comments to the new database, I am working on reformatting the friends system to the new database.
