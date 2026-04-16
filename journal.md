@@ -30,3 +30,6 @@ This week, I remade the home page to use a modified version of lance's script, a
 
 Week 11:
 I implemented the image uploading system, and reformatted the comments to the new database, I am working on reformatting the friends system to the new database.
+
+Week 12:
+This is the last week to work on the project, I got location features working, and we have almost everything we wanted to do done, and that's pretty exciting, we met thursday to finalize anything we wanted to finish up.
