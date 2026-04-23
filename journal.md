@@ -33,3 +33,6 @@ I implemented the image uploading system, and reformatted the comments to the ne
 
 Week 12:
 This is the last week to work on the project, I got location features working, and we have almost everything we wanted to do done, and that's pretty exciting, we met thursday to finalize anything we wanted to finish up.
+
+Week 13:
+Final Week of classes! We had 2 groups present, Seventh, and Souly. They were really good looking, our website looks like a 90s site gone bad. Well I worked about as hard as I could, had to drag a few of the others along sometimes. But we have a decent, usable site, and I'm glad it's done.
